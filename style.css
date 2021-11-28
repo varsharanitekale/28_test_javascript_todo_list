@@ -1,0 +1,25 @@
+body{
+    margin:0px;
+    height:100vh;
+}
+.submain{
+    background-color: brown;
+    text-align: center;
+    height:200px;
+    margin: 0px;
+    padding-top: 10px;
+    font-size: 50px;
+    /* position:relative;
+    right:0px; */
+}
+
+.container{
+     /* margin-left: 300px;
+     position: relative; */
+}
+.inputtex{
+    
+}
+.sub_btn{
+
+}
